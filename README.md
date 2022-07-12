@@ -1,2 +1,2 @@
 # go-lang-api
-API written in Go Lang
+Sample GET API created in Go Lang
